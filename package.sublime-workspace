@@ -1,0 +1,204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getApp",
+				"getAppointedDate"
+			],
+			[
+				"diff",
+				"difference"
+			],
+			[
+				"el",
+				"elif\telse if"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/GoogleDrive/My Drive/Classroom/second_semester/Java Programming/CW2 /RigoTechnology/RigoTechnology.java",
+		"/Volumes/GoogleDrive/My Drive/Classroom/first_semester/java/java_CW1/program/junior_Developer.java",
+		"/Volumes/GoogleDrive/My Drive/Classroom/RigoTechnology 2.java",
+		"/Volumes/GoogleDrive/My Drive/rigoTech_sublime.java",
+		"/Volumes/GoogleDrive/My Drive/Classroom/second_semester/Info-Sys PYTHON/Course_Work_3/A3_cw_18029179_Roman_Parajuli.sql",
+		"/Volumes/GoogleDrive/My Drive/Classroom/second_semester/Info-Sys PYTHON/Course_Work_3/2018-19 A CC4002NA A3 CW  Course Work 18029179 Roman Parajuli Dumpfile/pkm.sql",
+		"/Users/parajulifamily/Downloads/mysql queries week 19 lab.sql",
+		"/Volumes/GoogleDrive/My Drive/cW3_infosys/pkm.sql",
+		"/Users/parajulifamily/Desktop/Romnn/javaC3/week4/name_of_month_according_to_number_using_switch.java",
+		"/Users/parajulifamily/Desktop/Romnn/javaC3/2018Nov22/Z.java",
+		"/Users/parajulifamily/Desktop/Romnn/javaC3/2018Nov22/Y.java",
+		"/Users/parajulifamily/Desktop/Romnn/javaC3/2018Nov22/Calculator.java",
+		"/Users/parajulifamily/Desktop/Romnn/javaC3/2018Nov22/X.java",
+		"/Users/parajulifamily/Desktop/Romnn/javaC3/2018Nov22/A.java",
+		"/Users/parajulifamily/Desktop/Romnn/javaC3/2018Nov22/ObjectImplementation2.java",
+		"/Users/parajulifamily/Desktop/Romnn/javaC3/2018Nov22/ObjectImplementation1.java",
+		"/Users/parajulifamily/Desktop/Romnn/javaC3/2018Nov22/ObjectImplementation2.class",
+		"/Users/parajulifamily/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/parajulifamily/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/parajulifamily/Documents/algebra/class_5_maths_algebra_page_no_163.py",
+		"/Users/parajulifamily/Desktop/Romnn/infosys/Compare.java",
+		"/Users/parajulifamily/Desktop/javaC3/Test.java",
+		"/Users/parajulifamily/Documents/sum.java",
+		"/Users/parajulifamily/Desktop/Test.java"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
